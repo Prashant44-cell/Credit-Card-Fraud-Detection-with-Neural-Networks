@@ -1,4 +1,14 @@
-# Credit-Card-Fraud-Detection-with-Neural-Networks
+## Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/house-prediction-price.git
+   cd house-prediction-price
+   ```
+
+2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```# Credit-Card-Fraud-Detection-with-Neural-Networks
 
 # 📊 Customer Churn Survival Analysis
 
@@ -56,5 +66,14 @@ This project applies **survival analysis** to customer churn prediction using th
 - **Matplotlib** for visualization  
 
 ---
+## Installation
+1. Clone the repository:
+   ```
+   git clone https://github.com/Prashant44-cell/Credit-Card-Fraud-Detection-with-Neural-Networks.git
+   ```
 
+2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
 
